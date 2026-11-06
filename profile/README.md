@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cartographgg/.github/main/cartograph-wordmark-1024.png" alt="Cartograph" width="600" />
+  <img src="https://raw.githubusercontent.com/cartographgg/.github/main/cartograph-header.png" alt="Cartograph" width="600" />
 </p>
 
 <p align="center">
